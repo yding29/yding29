@@ -1,5 +1,3 @@
 Hi, I'm @yding29.
-I'm a College freshman.
-I'm learning Java and C++.
-
+I major in Mathematics and I am studying C and Java.
 
